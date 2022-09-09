@@ -76,3 +76,11 @@ footer {
     left: 100px;
     margin-bottom: 20px;
 }
+
+.container3 img {
+    float: left;
+    width: 300px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
