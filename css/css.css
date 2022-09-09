@@ -15,9 +15,17 @@ a {
     margin-top: -15px;
     color: white;
     align-items: center;
+}
+li{
+     text-decoration: none;
+        float:left;
+        padding: 2px 30px;
+        color: white;
+        align-items: center;
+    
+
 
 }
-
 footer {
     display: flex;
     justify-content: space-around;
@@ -48,4 +56,23 @@ footer {
     position: relative;
     top: 70px;
     left: 20px;
+}
+#texto2 {
+    padding: 160px 210px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -100px;
+    left: 150px;
+    text-align: center;
+}
+
+.container2 img {
+    float: left;
+    width: 300px;
+    position: relative;
+    top: 150px;
+    left: 100px;
+    margin-bottom: 20px;
 }
